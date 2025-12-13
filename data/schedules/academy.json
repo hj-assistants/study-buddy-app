@@ -1,0 +1,34 @@
+{
+  "schedules": [
+    {
+      "id": "schedule-001",
+      "title": "수학 학원",
+      "subject": "수학",
+      "day": "monday",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "강남점",
+      "color": "#1976d2"
+    },
+    {
+      "id": "schedule-002",
+      "title": "영어 학원",
+      "subject": "영어",
+      "day": "wednesday",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "서초점",
+      "color": "#2e7d32"
+    },
+    {
+      "id": "schedule-003",
+      "title": "수학 학원",
+      "subject": "수학",
+      "day": "friday",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "강남점",
+      "color": "#1976d2"
+    }
+  ]
+}
